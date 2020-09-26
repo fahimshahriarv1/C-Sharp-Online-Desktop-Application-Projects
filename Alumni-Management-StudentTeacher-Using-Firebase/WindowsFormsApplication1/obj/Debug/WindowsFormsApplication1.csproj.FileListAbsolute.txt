@@ -1,0 +1,51 @@
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\bin\Debug\FireSharp.dll
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\bin\Debug\RestSharp.dll
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\bin\Debug\RestSharp.xml
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Welcome.resources
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NewsLine.resources
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StudentLogged.resources
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Courses.resources
+c:\users\tanmoy\documents\visual studio 2015\Projects\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\FireSharp.dll
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\RestSharp.dll
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\RestSharp.xml
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Welcome.resources
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Courses.resources
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NewsLine.resources
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StudentLogged.resources
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SignUpForm.resources
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StudentInfo.resources
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.postOnline.resources
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\itextsharp.dll
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\PdfSharp.Charting.dll
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\PdfSharp.dll
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\itextsharp.xml
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\PdfSharp.xml
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\PdfSharp.Charting.xml
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\de\PdfSharp.resources.dll
+D:\3-1\Project c#\StudentTeacher\WindowsFormsApplication1\bin\Debug\de\PdfSharp.Charting.resources.dll
